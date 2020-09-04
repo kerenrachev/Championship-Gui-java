@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\Users\User\Desktop\HTML\java 8 jdk se" version="1.8.0_231">
+<bootpath>
+<entry path="C:\Users\User\Desktop\HTML\java 8 jdk se\lib\resources.jar"/>
+<entry path="C:\Users\User\Desktop\HTML\java 8 jdk se\lib\rt.jar"/>
+<entry path="C:\Users\User\Desktop\HTML\java 8 jdk se\lib\sunrsasign.jar"/>
+<entry path="C:\Users\User\Desktop\HTML\java 8 jdk se\lib\jsse.jar"/>
+<entry path="C:\Users\User\Desktop\HTML\java 8 jdk se\lib\jce.jar"/>
+<entry path="C:\Users\User\Desktop\HTML\java 8 jdk se\lib\charsets.jar"/>
+<entry path="C:\Users\User\Desktop\HTML\java 8 jdk se\lib\jfr.jar"/>
+<entry path="C:\Users\User\Desktop\HTML\java 8 jdk se\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Users\User\Desktop\HTML\java 8 jdk se\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Users\User\Desktop\HTML\java 8 jdk se\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
